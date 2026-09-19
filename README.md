@@ -1,6 +1,6 @@
 # Hi, I'm Jitesh 👋
 
-SWE Intern with a growing focus on GenAI & ML systems. 2026 CS graduate, still solving problems for fun on CodeChef and Codeforces.
+SWE with a growing focus on GenAI & ML systems. 2026 CS graduate, still solving problems for fun on CodeChef and Codeforces.
 
 I like building things end-to-end — from a REST API and its database schema, to the ML pipeline or RAG system sitting behind it.
 
